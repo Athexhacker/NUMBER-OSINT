@@ -307,7 +307,7 @@ Scam patterns (809, 876, 900 prefixes)
 Toll-free recognition
 
 ## 📊 Export & Reporting
-Export Formats
+**Export Formats**
 1. JSON Export (Raw Data)
 json
 {
@@ -324,7 +324,7 @@ json
     "factors": []
   }
 }
-2. HTML Report (Web View)
+2. **HTML Report (Web View)**
 Professional styling
 
 Clickable links
@@ -335,7 +335,7 @@ Responsive design
 
 Print-friendly
 
-3. PDF Report (Professional)
+3. **PDF Report (Professional)**
 Company branding support
 
 Page numbering
@@ -346,7 +346,7 @@ Header/footer customization
 
 Digital signature ready
 
-4. CSV Export (Spreadsheet)
+4. **CSV Export (Spreadsheet)**
 Column-organized data
 
 Compatible with Excel/Sheets
@@ -355,7 +355,7 @@ Easy filtering/sorting
 
 Statistical analysis ready
 
-5. TXT Report (Plain Text)
+5. **TXT Report (Plain Text)**
 Lightweight format
 
 Easy to share
@@ -458,8 +458,7 @@ Dating App Safety: Verify matches
 Online Purchase Safety: Seller verification
 
 ## ⚖️ Legal & Ethical Guidelines
-Legal Requirements
-✅ Authorized Uses
+***✅ Authorized Uses***
 Your own phone numbers
 
 Numbers with explicit consent
@@ -507,9 +506,13 @@ Ethical Guidelines
 Proportionality: Only collect necessary data
 
 ***👤 Created By: ATHEX BLACK HAT***
+
 **🔰 Role: Cyber Security Expert & Developer**
+
 **📱 WhatsApp: +92 3490916663**
+
 **▶️ YouTube: @inziXploit444 (ATHEX BLACK HAT)**
+
 **🌐 Google: Search "Athex black hat"**
 
 Support Channels
