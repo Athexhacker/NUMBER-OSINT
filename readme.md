@@ -50,11 +50,17 @@ People Search	Truecaller, Whitepages, SpyDialer, FastPeopleSearch, Intelius
 Breach Databases	HaveIBeenPwned, Dehashed, BreachDirectory, Snusbase
 ### Advanced Features
 ***🚀 Multi-threaded Analysis - Parallel processing for speed***
+
 ***💾 SQLite Caching - Store results to avoid redundant lookups***
+
 ***🔌 API Ready - Configurable integrations with paid services***
+
 ***📊 10 Specialized Tabs - Organized information display***
+
 ***🖨️ 5 Export Formats - JSON, TXT, HTML, CSV, PDF***
+
 ***🔍 Google Dorks Generation - 50+ specialized search queries***
+
 ***📍 Map Integration - Geographic visualization (placeholder)***
 
 ## 💻 Installation
@@ -464,7 +470,7 @@ Law enforcement operations
 
 Security testing with written authorization
 
-❌ Prohibited Uses
+***❌ Prohibited Uses***
 Stalking or harassment
 
 Unauthorized surveillance
@@ -500,11 +506,11 @@ Local variations - Check your jurisdiction
 Ethical Guidelines
 Proportionality: Only collect necessary data
 
-👤 Created By: ATHEX BLACK HAT
-🔰 Role: Cyber Security Expert & Developer
-📱 WhatsApp: +92 3490916663
-▶️ YouTube: @inziXploit444 (ATHEX BLACK HAT)
-🌐 Google: Search "Athex black hat"
+***👤 Created By: ATHEX BLACK HAT***
+**🔰 Role: Cyber Security Expert & Developer**
+**📱 WhatsApp: +92 3490916663**
+**▶️ YouTube: @inziXploit444 (ATHEX BLACK HAT)**
+**🌐 Google: Search "Athex black hat"**
 
 Support Channels
 Channel	Purpose	Response Time
